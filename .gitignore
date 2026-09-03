@@ -1,0 +1,16 @@
+logs/
+rockyou.txt
+wordlist_small.txt
+*.txt.gz
+*.pcap
+*.exe
+modules/social/*_template.html
+logs/waterhole_demo/
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+.env
+.DS_Store
+*.swp
